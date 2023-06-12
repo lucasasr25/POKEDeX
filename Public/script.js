@@ -1,14 +1,14 @@
 const containter = document.querySelector("#Container");
 const pokemonCount = 150
 colors = {
-    fire: '#F99797',
-    grass: '#DEFDE0',
-    electric: '#FCF7DE',
-    water: '#DEF3FD',
+    fire: '#ff2515',
+    grass: '#84ff76',
+    electric: '#efdf00',
+    water: '#5bcefa',
     ground: '#f4e7da',
     rock: '#d5d5d4',
     fairy: '#fceaff',
-    poison: '#98d7a5',
+    poison: '#e277b6',
     bug: '#f8d5a3',
     dragon: '#97b3e6',
     psychic: '#eaeda1',
